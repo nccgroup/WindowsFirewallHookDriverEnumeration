@@ -8,7 +8,7 @@
 # 
 # https://github.com/nccgroup/WindowsFirewallHookDriverEnumeration
 # 
-# Released under AGPL see LICENSE for more information
+# Released under AGPL see LICENSE.txt for more information
 #
 
 #pylint: disable-msg=C0111
