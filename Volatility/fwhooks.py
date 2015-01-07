@@ -4,7 +4,7 @@
 # Released as open source by NCC Group Plc - http://www.nccgroup.com/
 # 
 # Developed by Ollie Whitehouse, ollie dot whitehouse at nccgroup dot com
-#              Zolt Imre       , zolt dot imre at nccgroup dot com
+#              Zsolt Imre      , zsolt dot imre at nccgroup dot com
 # 
 # https://github.com/nccgroup/WindowsFirewallHookDriverEnumeration
 # 
