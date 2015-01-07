@@ -24,8 +24,8 @@ The Windows Firewall Hook functionality in XP/2003 technique [1][2][3][4][5] use
 [5] http://msdn.microsoft.com/en-us/library/windows/hardware/ff546499%28v=vs.85%29.aspx
 
 
-## Volatility Plugin
-We produced a Volatility Plugin to enumerate
+## Volatility Plug-in
+We produced a Volatility Plug-in to enumerate these hooks. Example below:
 
 ```
 [FWHook] Found tcpip.sys at offset 0x17b7098 with DllBase 0xf117d000
@@ -54,4 +54,4 @@ We produced a Volatility Plugin to enumerate
 ```
 
 ## Windows Native Tool
-We've produced a Windows native driver and command line utility that will be released shortly
+We've produced a Windows native driver and command line utility that will be released shortly.
