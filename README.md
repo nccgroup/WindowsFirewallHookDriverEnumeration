@@ -7,6 +7,7 @@ We've seen a malicious code sample which uses this technique.
 
 The Windows Firewall Hook functionality in XP/2003 technique [1][2][3][4][5] uses an IOCTL of IOCTL_IP_SET_FIREWALL_HOOK sent to \Device\Ip
 
+```
 #define FSCTL_IP_BASE     FILE_DEVICE_NETWORK
 
 #define _IP_CTL_CODE(function, method, access) 
@@ -14,7 +15,7 @@ The Windows Firewall Hook functionality in XP/2003 technique [1][2][3][4][5] use
 
 #define IOCTL_IP_SET_FIREWALL_HOOK  
             _IP_CTL_CODE(12, METHOD_BUFFERED, FILE_WRITE_ACCESS)
-
+```
 
 [1] https://briolidz.wordpress.com/2011/12/20/network-traffic-filtering-technologies-for-windows/
 [2] http://kosh.la/?p=28
