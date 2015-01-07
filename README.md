@@ -54,4 +54,4 @@ We produced a Volatility Plugin to enumerate
 ```
 
 ## Windows Native Tool
-We've producted a Windows native driver and commmand line utility that will be release shortley
+We've produced a Windows native driver and command line utility that will be released shortly
