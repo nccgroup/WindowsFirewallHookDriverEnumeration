@@ -54,4 +54,8 @@ We produced a Volatility Plug-in to enumerate these hooks. Example below:
 ```
 
 ## Windows Native Tool
-We've produced a Windows native driver and command line utility that will be released shortly.
+We've produced a Windows native driver and command line utility.
+
+![ScreenShot](https://raw.githubusercontent.com/nccgroup/WindowsFirewallHookDriverEnumeration/master/WindowsTool/Screenshot/Inaction.png)
+
+This can be downloaded the the releases tab - https://github.com/nccgroup/WindowsFirewallHookDriverEnumeration/releases
